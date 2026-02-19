@@ -21,5 +21,5 @@ Interest areas: web engineering, automation, scalable solutions, and quality sys
 - Component-driven architecture
 
 ### ✉️ Contact
-- LinkedIn: [linkedin.com/in/…](https://www.linkedin.com/in/rik-baselier-b31846328/)
+- LinkedIn: [linkedin.com/in/rik-baselier](https://www.linkedin.com/in/rik-baselier)
 - Email: [baselierrik@gmail.com](mailto:baselierrik@gmail.com)
